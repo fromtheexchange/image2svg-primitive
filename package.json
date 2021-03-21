@@ -37,7 +37,7 @@
     "fs-extra": "^9.1.0",
     "heic-decode": "^1.1.2",
     "helmet": "^4.4.1",
-    "patch-package": "^6.2.2",
+    "patch-package": "^6.3.1",
     "primitive": "1.0.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
